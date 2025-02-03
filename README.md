@@ -21,7 +21,7 @@ If the subscription does not exists previously, navigate to **Topics** section a
  
 `Workload Identity Pool ID` : To get this ID, you must run the terraform script for DNS in gshell of Google Cloud Platform. You can find the script files in the home page of the connector or find them in the steps provided below.
 ### Steps to execute Terrraform scripts
-1. [Click here](https://github.com/v-pmalreddy/GCPDNS_CCP/tree/main/GCPDNSLogsSetup) to access the terraform scripts.
+1. [Click here](https://github.com/v-hkopparala/v-hkopparala/blob/main/CCPIAMLOGS%201.tf) to access the terraform scripts.
 2. Launch the gcloud shell and create a directory using **mkdir <dir_name>** and navigate to the directory using **cd<dir_name>**.
 3. Copy the raw link of the Terraform script and get the content of the file into a shell using the following command:
    ```
