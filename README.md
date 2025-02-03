@@ -39,7 +39,7 @@ If the subscription does not exists previously, navigate to **Topics** section a
    ```
 5. After successfully executing the above mentioned commands, the workload Identity Pool ID and Provider ID is created.
 
-Now you can find the ID's related to Workload identity pool and provider in the Workload Identity Ferderation.
+Now you can find the ID's related to Workload identity pool and provider in the **Workload Identity Ferderation**.
 
 `Service account email` : Navigate to **Service accounts** section and use the relevant service account for authentication.
 
