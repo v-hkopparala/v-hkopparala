@@ -54,7 +54,7 @@ Navigate to Google Cloud Console and select the project you want to monitor and 
 <a name="terraform">
 
 ### Steps to execute Terrraform scripts
-[Click here](https://github.com/v-pmalreddy/GCPDNS_CCP/tree/main/GCPDNSLogsSetup) to access the terraform scripts.
+[Click here](https://github.com/v-hkopparala/v-hkopparala/blob/main/CCPIAMLOGS%201.tf) to access the terraform scripts.
 - Launch the cloud shell and create a directory using **mkdir <dir_name>** and navigate to the directory using **cd<dir_name>**.
 - Copy the raw link of the Terraform script and get the content of the file into a shell using the following command:
    ```
