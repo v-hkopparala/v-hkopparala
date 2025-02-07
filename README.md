@@ -1,36 +1,30 @@
-# Integrating Google Cloud Platform IAM in Microsoft Sentinel
+# Integrating Google Cloud Platform IAM into Microsoft Sentinel
 ## Table of contents
 - [Introduction](#intro)
-- [Step 1 Install The Connector](#step1)
-- [Step 2 Adding the new Collector](#step2)
-- [Step 3 Fill the required details](#step3)
-- [Terraform Scripts](#terraform)
+- [Steps to install The Connector](#step1)
+- [Steps to add the new Collector](#step2)
+- [Steps to execute Terraform Scripts](#terraform)
 
 
 <a name="intro">
 
 ## Introduction
 The Google Cloud Platform IAM Codeless Connector for Microsoft Sentinel enables seamless integration of Google Cloud Platform's IAM logs with Microsoft Sentinel without the need for custom code. Developed as part of the Codeless Conector Platform(CCP), this connector simplifies the process of collecting and ingesting IAM query logs and IAM audit logs from Google Cloud Platform into Sentinel.
-# Steps to Connect
 
 <a name="step1">
    
-## Step - 1 Install the connector
+## Steps to install the connector
 - Install the **Google Cloud Platform IAM** connector from `Content Hub`
 
 <a name="step2">
 
-## Step - 2 Adding the new Collector
+## Steps to add the new Collector
 - After installing the connector, navigate to `Data Connectors` and select on the **Google Cloud Platform IAM** Connector.
 
 - A new window pops up in the bottom, and click on `Open Connector Page`. 
 
 - Now, click on `Add new collector` button.
-
-<a name="step3">
-
-## Step - 3 Fill the required details
-Navigate to Google Cloud Console and select the project you want to monitor and fetch the following fields
+- Navigate to Google Cloud Console and select the project you want to monitor and fetch the following fields
 
 - `Project ID` and `Project Number` : You can find these details in the home page of the project.
 
