@@ -8,7 +8,7 @@
 
 <a name="intro">
 
-## Introduction
+## Introductions
 The Google Cloud Platform IAM Codeless Connector for Microsoft Sentinel enables seamless integration of Google Cloud Platform's IAM logs with Microsoft Sentinel without the need for custom code. Developed as part of the Codeless Conector Platform(CCP), this connector simplifies the process of collecting and ingesting IAM query logs and IAM audit logs from Google Cloud Platform into Sentinel.
 
 <a name="step1">
