@@ -64,6 +64,7 @@ To access the terraform script for Log Setup [Click here](https://github.com/v-h
 
 ## Steps to execute Terraform script for Authentication setup
 - If the Authentication setup file is previously executed in the project, there is no need to execute the Authentication setup file again. You can use the existing `Workload Identity Pool ID` and `Workload Identity Provider ID` for authentication  purpose.
-- If these fields are not generated previosuly, execute the Authentication Setup file with the same commands mentioned above.
+- If these fields are not generated previosuly, execute the Authentication Setup file.
 - To access the Authentication Setup file [Click Here](https://github.com/Azure/Azure-Sentinel/tree/master/DataConnectors/GCP/Terraform/sentinel_resources_creation/GCPInitialAuthenticationSetup).
+- To Execute the Authentication Setup file [Click Here](https://learn.microsoft.com/en-us/azure/sentinel/connect-google-cloud-platform?tabs=terraform%2Cauditlogs#gcp-authentication-setup).
 - After executing the authentication setup file, `Workload Identity Pool ID` and `Workload Identity Provider ID` are generated in the project.
