@@ -23,7 +23,9 @@ To generate the above resources, you must following the steps.
 
 Step1:- Login to the Prisma console portal
 
+
 ![Prisma_console_portal](https://github.com/v-hkopparala/v-hkopparala/blob/main/Screenshot%20(1).png?raw=true)
+
 
 Step2: - Go to settings tab 
 
