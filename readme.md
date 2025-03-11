@@ -35,7 +35,7 @@ Step3: - Click on Access control
 
 Step4: - Click on Add option and select service account as shown below
 
-![add_option]()
+![add_option](https://github.com/v-hkopparala/v-hkopparala/blob/e375cbb94737d18f7629678ac272eeb648aa746d/Screenshot%20(4).png)
 
 Step5: - Provide the service account name and assign a role
 
