@@ -47,7 +47,7 @@ Step6: - Provide Access Key Name as per your convenience
 
 Step7: - Click on Save and create which will provide you the Access key ID and Secret Key
 
-![Accesskey_results]()
+![Accesskey_results](https://github.com/v-hkopparala/v-hkopparala/blob/905c328ee2c71f2e1095e4db68fa473de3996a1d/Screenshot%20(7).png)
 
 Step 8: - Use Access Key ID as username and Secret Key as password on the Data connector page
 
