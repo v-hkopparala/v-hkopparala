@@ -39,7 +39,7 @@ Step4: - Click on Add option and select service account as shown below
 
 Step5: - Provide the service account name and assign a role
 
-![New_Service_account]()
+![New_Service_account](https://github.com/v-hkopparala/v-hkopparala/blob/5a74a3de98e96e94e26e5c0e0df42f81641b93ac/Screenshot%20(5).png)
 
 Step6: - Provide Access Key Name as per your convenience
 
