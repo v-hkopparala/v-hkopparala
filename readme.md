@@ -43,7 +43,7 @@ Step5: - Provide the service account name and assign a role
 
 Step6: - Provide Access Key Name as per your convenience
 
-![Accesskey_details]()
+![Accesskey_details](https://github.com/v-hkopparala/v-hkopparala/blob/9bd0c25fa679e5bc5d561c0d9718cc9f35a5df61/Screenshot%20(6).png)
 
 Step7: - Click on Save and create which will provide you the Access key ID and Secret Key
 
