@@ -31,7 +31,7 @@ Step2: - Go to settings tab
 
 Step3: - Click on Access control
 
-![access_control]()
+![access_control](https://github.com/v-hkopparala/v-hkopparala/blob/546dfa049122ff2c39286172432f62ae90ced096/Screenshot%20(3).png)
 
 Step4: - Click on Add option and select service account as shown below
 
