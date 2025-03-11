@@ -27,7 +27,7 @@ Step1:- Login to the Prisma console portal
 
 Step2: - Go to settings tab 
 
-![Setting]()
+![Setting](https://github.com/v-hkopparala/v-hkopparala/blob/26cf3e21a5e7b9989d41e37d9d1ec1cffae08433/Screenshot%20(2).png)
 
 Step3: - Click on Access control
 
